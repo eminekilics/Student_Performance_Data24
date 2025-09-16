@@ -4,7 +4,7 @@ EN-
 This project uses the SPD24 Student Performance Dataset to predict students’ performance levels based on demographic, academic, and socioeconomic features.
 The main goal is to practice data preprocessing, exploratory data analysis (EDA), and classification models with Python.
 
-Dataset Source: SPD24 dataset (https://www.kaggle.com/datasets/nasirayub2/spd24-student-performance-data-revised-features?)
+Dataset Source: SPD24 dataset (https://www.kaggle.com/datasets/nasirayub2/spd24-student-performance-data-revised-features)
 
 Target variable: Performance Score (Low / Medium / High)
 Features include:
@@ -45,7 +45,7 @@ Bu proje, SPD24 Öğrenci Performansı Veri Seti kullanılarak öğrencilerin de
 Amacım, Python kullanarak veri ön işleme, keşifsel veri analizi (EDA) ve sınıflandırma modelleri üzerine pratik yapmaktır.
 
 Veri Seti
-Kaynak SPD24 veriseti (https://www.kaggle.com/datasets/nasirayub2/spd24-student-performance-data-revised-features?)
+Kaynak SPD24 veriseti (https://www.kaggle.com/datasets/nasirayub2/spd24-student-performance-data-revised-features)
 
 Hedef değişken: Performance Score (Low / Medium / High)
 
